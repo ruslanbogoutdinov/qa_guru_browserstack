@@ -1,0 +1,34 @@
+{
+  "automation_session": {
+    "app_details": {
+      "app_url": "bs://c700ce60cf13ae8ed97705a55b8e022f13c5827c",
+      "app_name": "org.wikipedia.alpha",
+      "app_version": "2.5.194-alpha-2017-05-30",
+      "app_custom_id": null,
+      "uploaded_at": "2019-09-25T10:02:11.000Z"
+    },
+    "appium_logs_url": "https://api.browserstack.com/app-automate/builds/e00c4a9491f26642c681b75620d078f32598962a/sessions/867738e77ae2f5d810da96feb268cdd614b94e54/appiumlogs",
+    "browser": null,
+    "browser_url": "https://app-automate.browserstack.com/builds/e00c4a9491f26642c681b75620d078f32598962a/sessions/867738e77ae2f5d810da96feb268cdd614b94e54",
+    "browser_version": "app",
+    "browserstack_status": "running",
+    "build_hashed_id": "e00c4a9491f26642c681b75620d078f32598962a",
+    "build_name": "browserstack-build-1",
+    "build_terminal_logs_url": "https://app-automate.browserstack.com/s3-upload/bs-selenium-logs-use/s3/data/e00c4a9491f26642c681b75620d078f32598962a/terminal-logs.txt?response-content-type=text%2Fplain\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA2XUQHUQME45PHWR3%2F20230502%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20230502T191251Z\u0026X-Amz-Expires=604800\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=c56749e20da83dcc2ac144e605e3d33d774673535b09af1c54a9adf17dbdb5bb",
+    "created_at": "2023-05-02T19:11:33.000Z",
+    "device": "Google Pixel 3",
+    "device_logs_url": "https://api.browserstack.com/app-automate/builds/e00c4a9491f26642c681b75620d078f32598962a/sessions/867738e77ae2f5d810da96feb268cdd614b94e54/devicelogs",
+    "duration": null,
+    "hashed_id": "867738e77ae2f5d810da96feb268cdd614b94e54",
+    "logs": "https://app-automate.browserstack.com/builds/e00c4a9491f26642c681b75620d078f32598962a/sessions/867738e77ae2f5d810da96feb268cdd614b94e54/logs",
+    "name": "first_test",
+    "os": "android",
+    "os_version": "9.0",
+    "project_name": "First Java Project",
+    "public_url": "https://app-automate.browserstack.com/builds/e00c4a9491f26642c681b75620d078f32598962a/sessions/867738e77ae2f5d810da96feb268cdd614b94e54?auth_token=f4b2d182321b097de1e91a8f50831ec10cd87d80cee4d53943ec9efaa9ea5282",
+    "reason": null,
+    "session_terminal_logs_url": "https://app-automate.browserstack.com/s3-upload/bs-selenium-logs-use/s3/data/e00c4a9491f26642c681b75620d078f32598962a/867738e77ae2f5d810da96feb268cdd614b94e54-terminal-logs.txt?response-content-type=text%2Fplain\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA2XUQHUQME45PHWR3%2F20230502%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20230502T191251Z\u0026X-Amz-Expires=604800\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=f74816182b7d090461bcf45f2455d4c7a0330a6c33bf31455b670484a6f2810e",
+    "status": "running",
+    "video_url": "https://app-automate.browserstack.com/sessions/867738e77ae2f5d810da96feb268cdd614b94e54/video?token=OXJpK1I0NUY3UXN1NUVBZ3lxN1A4QUxoZ3hiNGxkeHNqOUgzRFhCejZreTQxV1ltVWxaL0FYMXMxcnZBM3FHV0RtcXRjeXJvT1JibkJERXFNYUVQOXc9PS0tMjJGTS80Tkg4dnF0SXNnbGdpaTRjUT09--be7775d05bdf972c77c449f7833cd3f531b30a2b\u0026source=rest_api\u0026diff=-1"
+  }
+}
